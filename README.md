@@ -1,5 +1,5 @@
 # Text-mining_twitter_reputation_crisis
-This is a text mining project over 200k Tweets regarding a reputation crisis in an religious institute.
+This is a text mining project over 200k Tweets regarding a reputation crisis in a religious institute.
 
 
 The study scraped all the 259632 tweets searched by the key word “Joel Osteen” and analyzed the corresponding trends of the crisis by the method of text mining and a bit of machine learning to analyze the sentiments of them. 
